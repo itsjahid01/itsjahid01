@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://ibb.co/qL8ZcdX)
 ## Hi there 👋
 
 <!--
